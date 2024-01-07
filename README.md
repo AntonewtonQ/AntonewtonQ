@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Se deseja conversar comigo, não exite em deixar uma mensagem deixar uma mensagem:
+  💌 Se deseja conversar comigo, não exite em deixar uma mensagem:
 </p>
 
 <p align="left">
