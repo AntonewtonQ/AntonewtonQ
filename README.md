@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Tailwind CSS, Java</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Java</strong>
 </p>
 
 <p align="left">
