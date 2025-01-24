@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Java</strong>
+  🦄 Habilidades: <strong>React, NextJs, TYpescript, Tailwind CSS, Bootstrap, Java</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Photoshop, Git, GitHub</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, GitHub, Firebase</strong>
 </p>
 
 <p align="left">
