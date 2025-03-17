@@ -1,28 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá Mundo, meu nome é Antonewrton Quima, Sou <strong>Desenvolvedor Front-End e UI designer.</strong>
-</p>
+ # 💻 Antonewton Quima
 
-<p align="left">
-  🦄 Habilidades: <strong>React, NextJs, TYpescript, Tailwind CSS, Bootstrap, Java</strong>
-</p>
+## 🚀 Sobre mim
+Olá! Meu nome é **Antonewton Quima**. Sou **desenvolvedor de aplicações** e **estudante de Engenharia Informática** pelo ISPTEC. Sou apaixonado por **projetos inovadores** e busco sempre criar soluções tecnológicas impactantes. Atualmente, estou envolvido na construção da plataforma **Seed** e do projeto **Rising Africa**. Também estou me preparando para iniciar minha jornada na **42**, aprimorando minhas habilidades de programação.
 
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, GitHub, Firebase</strong>
-</p>
+## 🛠️ Tecnologias e Ferramentas
+- **Frontend:** Next.js, React, Tailwind CSS, Shadcn, TypeScript
+- **Backend:** PHP, MySQL, Firebase
+- **Outras habilidades:** Modelação e Simulação de Sistemas, Segurança Cibernética, Multimédia
 
-<p align="left">
-  💌 Se deseja conversar comigo, não exite em deixar uma mensagem:
-</p>
+## 🌱 Projetos em andamento
+- **Seed**: Uma plataforma que combina capacitação, desafios práticos e recrutamento com o uso de IA.
+- **Rising Africa**: Projeto voltado para o crescimento e inovação no continente africano.
+- **Illustra.ao**: Minha futura empresa de desenvolvimento web em Angola.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/antonewton-quima-95aaa3238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonewton-quima-95aaa3238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="LinkedIn"/></a>
-  
-  <a href="https://wa.me/244943670112" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/244943670112" alt="WhatsApp"/></a>
-  
-  <a href="https://instagram.com/antonewton_" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/antonewton_" alt="Instagram"/></a>
+## 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonewton-quima-95aaa3238/)
+- 📩 Email: *antonewtonquima@gmail.com*
+
+🚀 Sempre aberto a novas oportunidades e desafios!
 </p>
