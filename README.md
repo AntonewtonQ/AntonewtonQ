@@ -8,7 +8,7 @@ Olá! Meu nome é **Antonewton Quima**. Sou **desenvolvedor de aplicações** e 
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Frontend:** Next.js, React, Tailwind CSS, Shadcn, TypeScript
-- **Backend:** PHP, MySQL, Firebase
+- **Backend:** Java, MySQL, Firebase, NodeJs
 - **Outras habilidades:** Modelação e Simulação de Sistemas, Segurança Cibernética, Multimédia
 
 ## 🌱 Projetos em andamento
