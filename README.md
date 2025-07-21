@@ -3,7 +3,7 @@
 <p align="left">
 
 ## 🚀 Sobre mim
-Olá! Meu nome é **Antonewton Quima**. Sou **desenvolvedor de aplicações** e **estudante de Engenharia Informática** pelo ISPTEC e cadete na **42 Luanda**. Sou apaixonado por **projetos inovadores** e busco sempre criar soluções tecnológicas impactantes. Atualmente, estou envolvido na construção da plataforma **DIKA** e do projeto **Rising Africa**.
+Olá! Meu nome é **Antonewton Quima**. Sou **desenvolvedor de aplicações** e **estudante de Engenharia Informática** pelo ISPTEC e cadete na **42 Luanda**. Sou apaixonado por **projetos inovadores** e busco sempre criar soluções tecnológicas impactantes. Atualmente, estou envolvido na construção da plataforma **DIKA**.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Frontend:** Next.js, React, Tailwind CSS, Shadcn, TypeScript
